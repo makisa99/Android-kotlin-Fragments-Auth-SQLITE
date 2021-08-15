@@ -1,2 +1,2 @@
-# 3TreciPrimer
+# Kotlin App with Fragments, Auth (login), SQLITE, Maps....
  Kotlin Android Fragments SQLITE Auth MediaPlayer Maps
