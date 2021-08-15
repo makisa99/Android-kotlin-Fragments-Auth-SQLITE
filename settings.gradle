@@ -1,0 +1,2 @@
+rootProject.name = "TreciPrimer"
+include ':app'
